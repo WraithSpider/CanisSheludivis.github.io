@@ -4,8 +4,10 @@ h1 {
     color: black;
     text-align: center;
 }
-FOOTER {
+footer {
     font-family: Verdana, sans-serif;
-    text-align: center;
+    font-size: 50%;
+    color: black;
+    text-align: right;
 }
 
