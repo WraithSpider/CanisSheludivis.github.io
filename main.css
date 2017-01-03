@@ -20,5 +20,5 @@ p {
 }
 
 header {
-    background: url (https://cdn.rawgit.com/DemidovAlex/CanisSheludivis.github.io/master/tutorials/canis.png) no-repeat;
+    background: url ("https://cdn.rawgit.com/DemidovAlex/CanisSheludivis.github.io/master/tutorials/canis.png") no-repeat;
 }
