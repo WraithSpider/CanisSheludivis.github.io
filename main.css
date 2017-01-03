@@ -1,4 +1,10 @@
 HEADER {
-    font-family: Arial, Verdana;
+    font-family: sans-serif;
+    font-size: 90%;
+    text-align: center;
+    color: cornsilk;
+}
+FOOTER {
+    font-family: Verdana, sans-serif;
     text-align: center;
 }
