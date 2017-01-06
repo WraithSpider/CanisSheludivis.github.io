@@ -22,5 +22,5 @@ footer {
 header {
     position: absolute;
     margin-top: 12px;
-    background-image: url ("https://cdn.rawgit.com/DemidovAlex/CanisSheludivis.github.io/master/tutorials/canis.png") no-repeat;
+    background-image: url ("https://cdn.rawgit.com/DemidovAlex/CanisSheludivis.github.io/master/tutorials/canis.png");
 }
