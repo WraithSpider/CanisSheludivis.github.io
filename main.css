@@ -2,7 +2,7 @@ header {
     height: 500px;
     position: relative;
     background-image: url(http://i.piccy.info/i9/0162efdb4797decb39760905ddb71301/1483726609/69766/1092073/canis.jpg);
-    background-size: contain;
+    background-size: cover;
 }
 
 h1 {
