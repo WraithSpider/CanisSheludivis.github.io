@@ -3,6 +3,8 @@ header {
     position: relative;
     background: url(http://i.piccy.info/i9/0162efdb4797decb39760905ddb71301/1483726609/69766/1092073/canis.jpg) no-repeat;
     background-position: left;
+    background-color: darkslategray;
+    margin: 0px;
 }
 
 h1 {
